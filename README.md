@@ -1,2 +1,2 @@
 # aksharat.github.io
-Artefacts for CSE574
+The course curriculum for CSE574 is hosted onto the website.
