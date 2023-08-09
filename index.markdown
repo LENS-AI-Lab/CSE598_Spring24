@@ -70,22 +70,7 @@ Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom L
 </style>
 
 #### Teaching Team : <br>
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="/images/prof.jpeg" alt="prof">
-      <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:ransalu@asu.edu">ransalu@asu.edu</a><br>
-      Office hours: Fri, 11:00 AM - 12:00 PM <br>
-      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
-      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT 203-21</a><br>
-    </font>
-  </div>
-</div>
+
  <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <figure class="img-container">
