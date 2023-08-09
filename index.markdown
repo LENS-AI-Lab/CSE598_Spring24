@@ -59,7 +59,7 @@ Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom L
  <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <figure class="img-container">
-      <img src="/images/prof.jpeg" alt="Ransalu">
+      <img src="/images/prof.jpeg" alt="prof">
       <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>
     </figure>
   </div>
