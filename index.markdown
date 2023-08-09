@@ -55,7 +55,7 @@ Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom L
 <a href='https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf' target='_blank'> Reinforcement Learning: An Introduction (2nd edition)</a><br>
 </font>
 <br>
-#### Teaching Team : 
+#### Teaching Team : <br>
  <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <figure class="img-container">
