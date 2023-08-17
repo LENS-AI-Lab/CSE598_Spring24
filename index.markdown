@@ -13,7 +13,7 @@ Lecture Hall: <a href='http://www.asu.edu/map/interactive/?psCode=COOR' target='
 Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Canvas</a>
   <br>
 Syllabus: <a href='https://canvas.asu.edu/courses/155869/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
-Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom Link</a> <br>
+Live Lecture: Zoom Link provided in Canvas <br>
  </font>
   <br>
 #### Description
@@ -24,27 +24,24 @@ Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom L
  <br>
 #### Course Schedule: 
 
-| WEEK     | DATE | THEORY   |
-|----------|-----|--------------|
-| Week 1  | 08/18/2023 | Intro to decision-making. What is planning? Various applications.                              |
-| Week 2  | 08/25/2023 | Myopic planning (BO, Bandits)                                                                  |
-| Week 3  | 09/01/2023 | Myopic planning (BO, Bandits)                                                                  |
-| Week 4  | 09/08/2023 | Non-myopic planning (value iteration, policy gradient, actor-critic, qlearning, MCTS)          |
-| Week 5  | 09/15/2023 | Non-myopic planning (value iteration, policy gradient, actor-critic, qlearning, MCTS)          |
-| Week 6  | 09/22/2023 | Imitation learning for decision-making(BC, DAgger, IRL)                                        |
-| Week 7  | 09/29/2023 | Imitation learning for decision-making(BC, DAgger, IRL)                                        |
-| Week 8  | 10/06/2023 | Human-in-the-loop planning (alignment, preferences, RLHF)                                      |
-| Week 9  | 10/13/2023 | Human-in-the-loop planning (alignment, preferences, RLHF)                                      |
-| Week 10 | 10/20/2023 | Task and Motion planning (A*, RRT,PRM, etc.)                                                   |
-| Week 11 | 10/27/2023 | Task and Motion planning (A*, RRT,PRM, etc.)                                                   |
-| Week 12 | 11/03/2023 | Multiagent planning: Game theory, MARL Uncertainty: POMDPs, Bayesian RL/IRL                    |
-| <span style="color:red; text-decoration:line-through;">Week 13</span> | <span style="color:red; text-decoration:line-through;">11/10/2023</span> |<span style="color:red;">Veterans Day Observed. (Classes excused/University closed)</span>                                          |
-| Week 14 | 11/17/2023 | Classical planning: Shakey robot, STRIPS/PDLL Hierarchical planning: HTN, hierarchical deep RL |
-| <span style="color:red; text-decoration:line-through;">Week 15</span> | <span style="color:red; text-decoration:line-through;">11/24/2023</span> |<span style="color:red;">Thanksgiving Holiday Observed. (Classes excused/University closed)</span>                                          |
-| Week 16 | 12/01/2023 | Project presentations                                                                          |
-
-
-
+| WEEK - DATE    | LECTURE                                  | DEADLINES | NOTES |
+|----------------|------------------------------------------|-----------|-------|
+| Week 1 <br> 08/18/2023 | Intro to decision-making               |           |       |
+| Week 2 <br> 08/25/2023 | Myopic planning <br> Pytorch Tutorial |           |       |
+| Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |           |       |
+| Week 4 <br> 09/08/2023 | Non-myopic planning & reinforcement learning |           |       |
+| Week 5 <br> 09/15/2023 | Non-myopic planning & reinforcement learning |           |       |
+| Week 6 <br> 09/22/2023 | Imitation learning for decision-making |           |       |
+| Week 7 <br> 09/29/2023 | Imitation learning for decision-making |           |       |
+| Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           |       |
+| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |           |       |
+| Week 10 <br> 10/20/2023 | Task and Motion planning               |           |       |
+| Week 11 <br> 10/27/2023 | Task and Motion planning               |           |       |
+| Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
+| <span style="color:red; text-decoration:line-through;">Week 13 <br> 11/10/2023</span> | <span style="color:red;">Veterans Day Observed <br> (Classes excused/University closed)</span>  |           |       |
+| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |           |       |
+| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |           |       |
+| Week 16 <br> 12/01/2023 | Project presentations                |           |       |
 
 
 
@@ -55,102 +52,172 @@ Live Lecture: <a href='https://asu.zoom.us/j/84935914427' target='_blank'>Zoom L
 <a href='https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf' target='_blank'> Reinforcement Learning: An Introduction (2nd edition)</a><br>
 </font>
 <br>
-<style>
-/* Common image size */
-.img-container {
-  display: inline-block;
-  width: 200px; /* Set the desired width of the image */
-  height: auto; /* Allow the height to adjust proportionally */
-  margin: 10px; /* Optional margin for spacing between images */
-}
-.img-container img {
-  width: 100%;
-  height: 100%;
-}
-</style>
+
 
 #### Teaching Team : <br>
 
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="images/prof.jpeg" alt="prof">
-      <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:ransalu@asu.edu">ransalu@asu.edu</a><br>
-      Office hours: Fri, 11:00 AM - 12:00 PM <br>
-      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
-      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>
-    </font>
-  </div>
+<!-- <div style="display: flex; align-items: center;">-->
+<!--  <div style="flex: 1; padding-right: 20px;">-->
+<!--    <figure class="img-container">-->
+<!--      <img src="images/prof.jpeg" alt="prof">-->
+<!--      <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>-->
+<!--    </figure>-->
+<!--  </div>-->
+<!--  <div style="flex: 2;">-->
+<!--    <font size='4' face='Times New Roman'>-->
+<!--      E-mail: ransalu@asu.edu<br>-->
+<!--      Office hours: Fri, 11:00 AM - 12:00 PM <br>-->
+<!--      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>-->
+<!--      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>-->
+<!--    </font>-->
+<!--  </div>-->
+<!--</div>-->
+<!-- <div style="display: flex; align-items: center;">-->
+<!--  <div style="flex: 1; padding-right: 20px;">-->
+<!--    <figure class="img-container">-->
+<!--      <img src="images/yancheng.jpg" alt="Yancheng Wang">-->
+<!--      <figcaption><b>Yancheng Wang</b> <br>(Teaching Assistant)</figcaption>-->
+<!--    </figure>-->
+<!--  </div>-->
+<!--  <div style="flex: 2;">-->
+<!--    <font size='4' face='Times New Roman'>-->
+<!--      E-mail: ywan1053@asu.edu<br>-->
+<!--      Office hours: Wed, 2:00 PM - 3:00 PM <br>-->
+<!--      Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>-->
+<!--      Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>-->
+<!--    </font>-->
+<!--  </div>-->
+<!--</div>-->
+<!---->
+<!-- <div style="display: flex; align-items: center;">-->
+<!--  <div style="flex: 1; padding-right: 20px;">-->
+<!--    <figure class="img-container">-->
+<!--      <img src="images/akshara.jpeg" alt="Akshara">-->
+<!--      <figcaption><b>Akshara trichambaram</b> <br>(Instructional Assistant)</figcaption>-->
+<!--    </figure>-->
+<!--  </div>-->
+<!--  <div style="flex: 2;">-->
+<!--    <font size='4' face='Times New Roman'>-->
+<!--      E-mail: atricham@asu.edu<br>-->
+<!--      Office hours: Mon, 11:00 AM - 12:00 PM <br>-->
+<!--      Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>-->
+<!--    </font>-->
+<!--  </div>-->
+<!--</div>-->
+<!---->
+<!-- <div style="display: flex; align-items: center;">-->
+<!--  <div style="flex: 1; padding-right: 20px;">-->
+<!--    <figure class="img-container">-->
+<!--      <img src="images/suresh.jpeg" alt="suresh">-->
+<!--      <figcaption><b>Suresh Kondepudi</b> <br>(Grader)</figcaption>-->
+<!--    </figure>-->
+<!--  </div>-->
+<!--  <div style="flex: 2;">-->
+<!--    <font size='4' face='Times New Roman'>-->
+<!--      E-mail: nkondepu@asu.edu<br>-->
+<!--      Office hours: Ad-hoc (post grading)-->
+<!--    </font>-->
+<!--  </div>-->
+<!--</div>-->
+<!-- <div style="display: flex; align-items: center;">-->
+<!--  <div style="flex: 1; padding-right: 20px;">-->
+<!--    <figure class="img-container">-->
+<!--      <img src="images/omkar.jpg" alt="omkar">-->
+<!--      <figcaption><b>Omkar Vengurlekar</b> <br>(Grader)</figcaption>-->
+<!--    </figure>-->
+<!--  </div>-->
+<!--  <div style="flex: 2;">-->
+<!--    <font size='4' face='Times New Roman'>-->
+<!--      E-mail: ovengurl@asu.edu<br>-->
+<!--      Office hours: Ad-hoc (post grading)-->
+<!--    </font>-->
+<!--  </div>-->
+<!--</div>-->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<style>
+  .person {
+    padding: 10px;
+    text-align: center;
+    max-width: 150px; /* Adjust as needed */
+  }
+  
+  .person img {
+    max-width: 150px;
+    max-height: 150px;
+  }
+
+  figcaption {
+    font-size: 10px; /* Adjust the font size as needed */
+  }
+</style>
+
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: row;">
+    <div class="person">
+      <figure class="img-container">
+        <img src="images/prof.jpeg" alt="prof">
+        <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>
+      </figure>
+      <font size='2' face='Times New Roman'>
+        E-mail: ransalu@asu.edu<br>
+        Office hours: Fri, 11:00 AM - 12:00 PM <br>
+        Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
+        Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>
+      </font>
+    </div>
+
+    <div class="person">
+      <figure class="img-container">
+        <img src="images/yancheng.jpg" alt="Yancheng Wang">
+        <figcaption><b>Yancheng Wang</b> <br>(Teaching Assistant)</figcaption>
+      </figure>
+      <font size='2' face='Times New Roman'>
+        E-mail: ywan1053@asu.edu<br>
+        Office hours: Wed, 2:00 PM - 3:00 PM <br>
+        Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
+        Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
+      </font>
+    </div>
+
+    <div class="person">
+      <figure class="img-container">
+        <img src="images/akshara.jpeg" alt="Akshara">
+        <figcaption><b>Akshara Trichambaram</b> <br>(Instructional Assistant)</figcaption>
+      </figure>
+      <font size='2' face='Times New Roman'>
+        E-mail: atricham@asu.edu<br>
+        Office hours: Mon, 11:00 AM - 12:00 PM <br>
+        Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
+      </font>
+    </div>
+
+  
+
+    <div class="person">
+      <figure class="img-container">
+        <img src="images/suresh.jpeg" alt="suresh">
+        <figcaption><b>Suresh Kondepudi</b> <br>(Grader)</figcaption>
+      </figure>
+      <font size='2' face='Times New Roman'>
+        E-mail: nkondepu@asu.edu<br>
+        Office hours: Ad-hoc (post grading)
+      </font>
+    </div>
+
+    <div class="person">
+      <figure class="img-container">
+        <img src="images/omkar.jpg" alt="omkar">
+        <figcaption><b>Omkar Vengurlekar</b> <br>(Grader)</figcaption>
+      </figure>
+      <font size='2' face='Times New Roman'>
+        E-mail: ovengurl@asu.edu<br>
+        Office hours: Ad-hoc (post grading)
+      </font>
+    </div>
+
 </div>
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="images/yancheng.jpg" alt="Yancheng Wang">
-      <figcaption><b>Yancheng Wang</b> <br>(Teaching Assistant)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:ywan1053@asu.edu">ywan1053@asu.edu</a><br>
-      Office hours: Wed, 2:00 PM - 3:00 PM <br>
-      Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
-      Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
-    </font>
-  </div>
-</div>
-
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="images/akshara.jpeg" alt="Akshara">
-      <figcaption><b>Akshara trichambaram</b> <br>(Instructional Assistant)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:atricham@asu.edu">atricham@asu.edu</a><br>
-      Office hours: Mon, 11:00 AM - 12:00 PM <br>
-      Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
-    </font>
-  </div>
-</div>
-
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="images/suresh.jpeg" alt="suresh">
-      <figcaption><b>Suresh Kondepudi</b> <br>(Grader)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:nkondepu@asu.edu">nkondepu@asu.edu</a><br>
-      Office hours: Ad-hoc (post grading)
-    </font>
-  </div>
-</div>
- <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <figure class="img-container">
-      <img src="images/omkar.jpg" alt="omkar">
-      <figcaption><b>Omkar Vengurlekar</b> <br>(Grader)</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 2;">
-    <font size='4' face='Times New Roman'>
-      E-mail: <a href="mailto:ovengurl@asu.edu">ovengurl@asu.edu</a><br>
-      Office hours: Ad-hoc (post grading)
-    </font>
-  </div>
-</div>
-
-
-
-
-
-
