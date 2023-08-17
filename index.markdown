@@ -56,168 +56,81 @@ Live Lecture: Zoom Link provided in Canvas <br>
 
 #### Teaching Team : <br>
 
-<!-- <div style="display: flex; align-items: center;">-->
-<!--  <div style="flex: 1; padding-right: 20px;">-->
-<!--    <figure class="img-container">-->
-<!--      <img src="images/prof.jpeg" alt="prof">-->
-<!--      <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>-->
-<!--    </figure>-->
-<!--  </div>-->
-<!--  <div style="flex: 2;">-->
-<!--    <font size='4' face='Times New Roman'>-->
-<!--      E-mail: ransalu@asu.edu<br>-->
-<!--      Office hours: Fri, 11:00 AM - 12:00 PM <br>-->
-<!--      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>-->
-<!--      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>-->
-<!--    </font>-->
-<!--  </div>-->
-<!--</div>-->
-<!-- <div style="display: flex; align-items: center;">-->
-<!--  <div style="flex: 1; padding-right: 20px;">-->
-<!--    <figure class="img-container">-->
-<!--      <img src="images/yancheng.jpg" alt="Yancheng Wang">-->
-<!--      <figcaption><b>Yancheng Wang</b> <br>(Teaching Assistant)</figcaption>-->
-<!--    </figure>-->
-<!--  </div>-->
-<!--  <div style="flex: 2;">-->
-<!--    <font size='4' face='Times New Roman'>-->
-<!--      E-mail: ywan1053@asu.edu<br>-->
-<!--      Office hours: Wed, 2:00 PM - 3:00 PM <br>-->
-<!--      Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>-->
-<!--      Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>-->
-<!--    </font>-->
-<!--  </div>-->
-<!--</div>-->
-<!---->
-<!-- <div style="display: flex; align-items: center;">-->
-<!--  <div style="flex: 1; padding-right: 20px;">-->
-<!--    <figure class="img-container">-->
-<!--      <img src="images/akshara.jpeg" alt="Akshara">-->
-<!--      <figcaption><b>Akshara trichambaram</b> <br>(Instructional Assistant)</figcaption>-->
-<!--    </figure>-->
-<!--  </div>-->
-<!--  <div style="flex: 2;">-->
-<!--    <font size='4' face='Times New Roman'>-->
-<!--      E-mail: atricham@asu.edu<br>-->
-<!--      Office hours: Mon, 11:00 AM - 12:00 PM <br>-->
-<!--      Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>-->
-<!--    </font>-->
-<!--  </div>-->
-<!--</div>-->
-<!---->
-<!-- <div style="display: flex; align-items: center;">-->
-<!--  <div style="flex: 1; padding-right: 20px;">-->
-<!--    <figure class="img-container">-->
-<!--      <img src="images/suresh.jpeg" alt="suresh">-->
-<!--      <figcaption><b>Suresh Kondepudi</b> <br>(Grader)</figcaption>-->
-<!--    </figure>-->
-<!--  </div>-->
-<!--  <div style="flex: 2;">-->
-<!--    <font size='4' face='Times New Roman'>-->
-<!--      E-mail: nkondepu@asu.edu<br>-->
-<!--      Office hours: Ad-hoc (post grading)-->
-<!--    </font>-->
-<!--  </div>-->
-<!--</div>-->
-<!-- <div style="display: flex; align-items: center;">-->
-<!--  <div style="flex: 1; padding-right: 20px;">-->
-<!--    <figure class="img-container">-->
-<!--      <img src="images/omkar.jpg" alt="omkar">-->
-<!--      <figcaption><b>Omkar Vengurlekar</b> <br>(Grader)</figcaption>-->
-<!--    </figure>-->
-<!--  </div>-->
-<!--  <div style="flex: 2;">-->
-<!--    <font size='4' face='Times New Roman'>-->
-<!--      E-mail: ovengurl@asu.edu<br>-->
-<!--      Office hours: Ad-hoc (post grading)-->
-<!--    </font>-->
-<!--  </div>-->
-<!--</div>-->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
 <style>
   .person {
     padding: 10px;
     text-align: center;
-    max-width: 150px; /* Adjust as needed */
+    max-width: 120px; /* Adjust as needed */
   }
   
   .person img {
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 120px;
+    max-height: 120px;
   }
 
-  figcaption {
+  .person figcaption {
     font-size: 10px; /* Adjust the font size as needed */
   }
 </style>
 
-<div style="display: flex; flex-direction: column;">
-  <div style="display: flex; flex-direction: row;">
-    <div class="person">
-      <figure class="img-container">
-        <img src="images/prof.jpeg" alt="prof">
-        <figcaption><b>Ransalu Senanayake</b> <br>(Instructor)</figcaption>
-      </figure>
-      <font size='2' face='Times New Roman'>
-        E-mail: ransalu@asu.edu<br>
-        Office hours: Fri, 11:00 AM - 12:00 PM <br>
-        Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
-        Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>
-      </font>
-    </div>
+<div style="display: flex; flex-wrap: wrap;">
+  <div class="person">
+    <figure class="img-container">
+      <img src="images/prof.jpeg" alt="prof">
+      <figcaption><b>Ransalu Senanayake</b><br>(Instructor)</figcaption>
+    </figure>
+    <font size='2' face='Times New Roman'>
+      E-mail: ransalu@asu.edu<br>
+      Office hours: Fri, 11:00 AM - 12:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
+      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>
+    </font>
+  </div>
 
-    <div class="person">
-      <figure class="img-container">
-        <img src="images/yancheng.jpg" alt="Yancheng Wang">
-        <figcaption><b>Yancheng Wang</b> <br>(Teaching Assistant)</figcaption>
-      </figure>
-      <font size='2' face='Times New Roman'>
-        E-mail: ywan1053@asu.edu<br>
-        Office hours: Wed, 2:00 PM - 3:00 PM <br>
-        Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
-        Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
-      </font>
-    </div>
+  <div class="person">
+    <figure class="img-container">
+      <img src="images/yancheng.jpg" alt="Yancheng Wang">
+      <figcaption><b>Yancheng Wang</b><br>(Teaching Assistant)</figcaption>
+    </figure>
+    <font size='2' face='Times New Roman'>
+      E-mail: ywan1053@asu.edu<br>
+      Office hours: Wed, 2:00 PM - 3:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
+      Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
+    </font>
+  </div>
 
-    <div class="person">
-      <figure class="img-container">
-        <img src="images/akshara.jpeg" alt="Akshara">
-        <figcaption><b>Akshara Trichambaram</b> <br>(Instructional Assistant)</figcaption>
-      </figure>
-      <font size='2' face='Times New Roman'>
-        E-mail: atricham@asu.edu<br>
-        Office hours: Mon, 11:00 AM - 12:00 PM <br>
-        Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
-      </font>
-    </div>
+  <div class="person">
+    <figure class="img-container">
+      <img src="images/akshara.jpeg" alt="Akshara">
+      <figcaption><b>Akshara Trichambaram</b><br>(Instructional Assistant)</figcaption>
+    </figure>
+    <font size='2' face='Times New Roman'>
+      E-mail: atricham@asu.edu<br>
+      Office hours: Mon, 11:00 AM - 12:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
+    </font>
+  </div>
 
-  
+  <div class="person">
+    <figure class="img-container">
+      <img src="images/suresh.jpeg" alt="suresh">
+      <figcaption><b>Suresh Kondepudi</b><br>(Grader)</figcaption>
+    </figure>
+    <font size='2' face='Times New Roman'>
+      E-mail: nkondepu@asu.edu<br>
+      Office hours: Ad-hoc (post grading)
+    </font>
+  </div>
 
-    <div class="person">
-      <figure class="img-container">
-        <img src="images/suresh.jpeg" alt="suresh">
-        <figcaption><b>Suresh Kondepudi</b> <br>(Grader)</figcaption>
-      </figure>
-      <font size='2' face='Times New Roman'>
-        E-mail: nkondepu@asu.edu<br>
-        Office hours: Ad-hoc (post grading)
-      </font>
-    </div>
-
-    <div class="person">
-      <figure class="img-container">
-        <img src="images/omkar.jpg" alt="omkar">
-        <figcaption><b>Omkar Vengurlekar</b> <br>(Grader)</figcaption>
-      </figure>
-      <font size='2' face='Times New Roman'>
-        E-mail: ovengurl@asu.edu<br>
-        Office hours: Ad-hoc (post grading)
-      </font>
-    </div>
-
+  <div class="person">
+    <figure class="img-container">
+      <img src="images/omkar.jpg" alt="omkar">
+      <figcaption><b>Omkar Vengurlekar</b><br>(Grader)</figcaption>
+    </figure>
+    <font size='2' face='Times New Roman'>
+      E-mail: ovengurl@asu.edu<br>
+      Office hours: Ad-hoc (post grading)
+    </font>
+  </div>
 </div>
