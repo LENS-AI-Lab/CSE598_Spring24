@@ -14,7 +14,7 @@ Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Can
   <br>
 Syllabus: <a href='https://canvas.asu.edu/courses/155869/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
 Live Lecture: Zoom Link provided in Canvas <br>
-Contact info: atricham@<asu_domain>
+Contact info: atricham@asu...
  </font>
   <br>
 #### Description
