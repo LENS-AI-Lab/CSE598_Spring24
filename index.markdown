@@ -125,7 +125,7 @@ Contact info: atricham@asu...
 
   <div class="person">
     <figure class="img-container">
-      <img src="images/suresh.jpg" alt="omkar">
+      <img src="images/harsh.jpg" alt="Harsh">
       <figcaption><b>Harsh Mankodiya</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
