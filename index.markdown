@@ -14,6 +14,7 @@ Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Can
   <br>
 Syllabus: <a href='https://canvas.asu.edu/courses/155869/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
 Live Lecture: Zoom Link provided in Canvas <br>
+Contact info: atricham@<@asu_domain>
  </font>
   <br>
 #### Description
@@ -24,13 +25,13 @@ Live Lecture: Zoom Link provided in Canvas <br>
  <br>
 #### Course Schedule: 
 
-| WEEK - DATE    | LECTURE                                  | DEADLINES | NOTES |
+| WEEK   | LECTURE                                  | DEADLINES | NOTES |
 |----------------|------------------------------------------|-----------|-------|
 | Week 1 <br> 08/18/2023 | Intro to decision-making               |           |       |
 | Week 2 <br> 08/25/2023 | Myopic planning <br> Pytorch Tutorial |           |       |
 | Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |           |       |
-| Week 4 <br> 09/08/2023 | Non-myopic planning & reinforcement learning |           |       |
-| Week 5 <br> 09/15/2023 | Non-myopic planning & reinforcement learning |           |       |
+| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |           |       |
+| Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           |       |
 | Week 6 <br> 09/22/2023 | Imitation learning for decision-making |           |       |
 | Week 7 <br> 09/29/2023 | Imitation learning for decision-making |           |       |
 | Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           |       |
@@ -80,10 +81,9 @@ Live Lecture: Zoom Link provided in Canvas <br>
       <figcaption><b>Ransalu Senanayake</b><br>(Instructor)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ransalu@asu.edu<br>
+      E-mail: ransalu@<@asu_domain><br>
       Office hours: Fri, 11:00 AM - 12:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
-      Office: <a href='https://www.asu.edu/map/interactive/?psCode=CTRPT' target='_blank'>CTRPT203-21</a><br>
     </font>
   </div>
 
@@ -93,7 +93,7 @@ Live Lecture: Zoom Link provided in Canvas <br>
       <figcaption><b>Yancheng Wang</b><br>(Teaching Assistant)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ywan1053@asu.edu<br>
+      E-mail: ywan1053@<@asu_domain><br>
       Office hours: Wed, 2:00 PM - 3:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
       Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
@@ -106,7 +106,7 @@ Live Lecture: Zoom Link provided in Canvas <br>
       <figcaption><b>Akshara Trichambaram</b><br>(Instructional Assistant)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: atricham@asu.edu<br>
+      E-mail: atricham@<@asu_domain><br>
       Office hours: Mon, 11:00 AM - 12:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
     </font>
@@ -118,18 +118,18 @@ Live Lecture: Zoom Link provided in Canvas <br>
       <figcaption><b>Suresh Kondepudi</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: nkondepu@asu.edu<br>
+      E-mail: nkondepu@<@asu_domain><br>
       Office hours: Ad-hoc (post grading)
     </font>
   </div>
 
   <div class="person">
     <figure class="img-container">
-      <img src="images/omkar.jpg" alt="omkar">
-      <figcaption><b>Omkar Vengurlekar</b><br>(Grader)</figcaption>
+      <img src="images/harsh.jpg" alt="omkar">
+      <figcaption><b>Harsh Mankodiya</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ovengurl@asu.edu<br>
+      E-mail: mankodi@<asu_domain><br>
       Office hours: Ad-hoc (post grading)
     </font>
   </div>
