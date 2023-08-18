@@ -14,7 +14,7 @@ Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Can
   <br>
 Syllabus: <a href='https://canvas.asu.edu/courses/155869/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
 Live Lecture: Zoom Link provided in Canvas <br>
-Contact info: atricham@<@asu_domain>
+Contact info: atricham@<asu_domain>
  </font>
   <br>
 #### Description
@@ -81,7 +81,7 @@ Contact info: atricham@<@asu_domain>
       <figcaption><b>Ransalu Senanayake</b><br>(Instructor)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ransalu@<@asu_domain><br>
+      E-mail: ransalu@asu...<br>
       Office hours: Fri, 11:00 AM - 12:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
     </font>
@@ -93,7 +93,7 @@ Contact info: atricham@<@asu_domain>
       <figcaption><b>Yancheng Wang</b><br>(Teaching Assistant)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ywan1053@<@asu_domain><br>
+      E-mail: ywan1053@asu...<br>
       Office hours: Wed, 2:00 PM - 3:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
       Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
@@ -106,7 +106,7 @@ Contact info: atricham@<@asu_domain>
       <figcaption><b>Akshara Trichambaram</b><br>(Instructional Assistant)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: atricham@<@asu_domain><br>
+      E-mail: atricham@asu...<br>
       Office hours: Mon, 11:00 AM - 12:00 PM<br>
       Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
     </font>
@@ -118,18 +118,18 @@ Contact info: atricham@<@asu_domain>
       <figcaption><b>Suresh Kondepudi</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: nkondepu@<@asu_domain><br>
+      E-mail: nkondepu@asu...<br>
       Office hours: Ad-hoc (post grading)
     </font>
   </div>
 
   <div class="person">
     <figure class="img-container">
-      <img src="images/harsh.jpg" alt="omkar">
+      <img src="images/suresh.jpg" alt="omkar">
       <figcaption><b>Harsh Mankodiya</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: mankodi@<asu_domain><br>
+      E-mail: mankodi@asu...<br>
       Office hours: Ad-hoc (post grading)
     </font>
   </div>
