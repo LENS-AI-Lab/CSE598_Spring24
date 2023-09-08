@@ -25,24 +25,24 @@ Contact info: atricham@asu...
  <br>
 #### Course Schedule: 
 
-| WEEK   | LECTURE                                  | DEADLINES | NOTES |
+| WEEK   | LECTURE                                  | IMPORTANT DATES | NOTES |
 |----------------|------------------------------------------|-----------|-------|
 | Week 1 <br> 08/18/2023 | Intro to decision-making               |           |   [Week 1 Lecture](/lectures/CSE574_23_week1_intro.pdf)|
 | Week 2 <br> 08/25/2023 | Myopic planning <br> Pytorch Tutorial |           |[Week 2 Lecture](/lectures/CSE574_23_day2.pdf)<br>[Pytorch Tutorial](/lectures/Tutorial_Materials.zip)<br>Additional Reading :<br>[Algorithms for Optimization:Section 15, Section 16](https://algorithmsbook.com/optimization/files/optimization.pdf)|
-| Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |           | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
-| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |           |       |
+| Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |         | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
+| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept <br> [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)       |       |
 | Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           |       |
-| Week 6 <br> 09/22/2023 | Imitation learning for decision-making |           |       |
-| Week 7 <br> 09/29/2023 | Imitation learning for decision-making |           |       |
+| Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     |      |
+| Week 7 <br> 09/29/2023 | Imitation learning for decision-making |     Project Proposal Presentation : 29th Sept      |       |
 | Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           |       |
-| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |           |       |
+| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Due Date: 15th Oct        |       |
 | Week 10 <br> 10/20/2023 | Task and Motion planning               |           |       |
-| Week 11 <br> 10/27/2023 | Task and Motion planning               |           |       |
+| Week 11 <br> 10/27/2023 | Task and Motion planning               |   Project Progress Presentation : 27th Oct       |       |
 | Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
 | <span style="color:red; text-decoration:line-through;">Week 13 <br> 11/10/2023</span> | <span style="color:red;">Veterans Day Observed <br> (Classes excused/University closed)</span>  |           |       |
-| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |           |       |
-| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |           |       |
-| Week 16 <br> 12/01/2023 | Project presentations                |           |       |
+| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |  Assignment 3 released: 10th Nov        |       |
+| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |    Assignment 3 Due Date: 26th Nov          |       |
+| Week 16 <br> 12/01/2023 | Project presentations                | Final Project Presentations : 1st Dec <br> Final Project Report : 3rd Dec         |       |
 
 
 
