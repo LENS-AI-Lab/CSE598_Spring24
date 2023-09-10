@@ -30,7 +30,7 @@ Contact info: atricham@asu...
 | Week 1 <br> 08/18/2023 | Intro to decision-making               |           |   [Week 1 Lecture](/lectures/CSE574_23_week1_intro.pdf)|
 | Week 2 <br> 08/25/2023 | Myopic planning <br> Pytorch Tutorial |           |[Week 2 Lecture](/lectures/CSE574_23_day2.pdf)<br>[Pytorch Tutorial](/lectures/Tutorial_Materials.zip)<br>Additional Reading :<br>[Algorithms for Optimization:Section 15, Section 16](https://algorithmsbook.com/optimization/files/optimization.pdf)|
 | Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |         | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
-| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept <br> [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)       |       |
+| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept <br> [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)       |     [Week 4 Lecture](/lectures/CSE574_23_day4.pdf) <br>[Assignment 1 Part A solutions](/lectures/CSE574_23_assignment1_part1_solutions.pdf) |
 | Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           |       |
 | Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     |      |
 | Week 7 <br> 09/29/2023 | Imitation learning for decision-making |     Project Proposal Presentation : 29th Sept      |       |
