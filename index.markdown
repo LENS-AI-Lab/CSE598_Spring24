@@ -33,7 +33,7 @@ Contact info: atricham@asu...
 | Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept <br> [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)       |     [Week 4 Lecture](/lectures/CSE574_23_day4.pdf) <br>[Assignment 1 Part A solutions](/lectures/CSE574_23_assignment1_part1_solutions.pdf) |
 | Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           |    Additional Reading :<br>[InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) <br> [SayCan](https://say-can.github.io/assets/palm_saycan.pdf) |
 | Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     |      |
-| Week 7 <br> 09/29/2023 | Imitation learning for decision-making |     Project Proposal Presentation : 29th Sept      |       |
+| Week 7 <br> 09/29/2023 | Imitation learning for decision-making | Project team formation and idea Due date: 25th Sept<br> Project Proposal Presentation : 29th Sept      | [Project Guidelines](/lectures/CSE574_Project_Guidelines.pdf) <br>  [Project Report Template](/lectures/CSE574_project_report_template.zip)    |
 | Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           |       |
 | Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Due Date: 15th Oct        |       |
 | Week 10 <br> 10/20/2023 | Task and Motion planning               |           |       |
