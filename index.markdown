@@ -35,7 +35,7 @@ Contact info: atricham@asu...
 | Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     | [Week 6 Lecture](/lectures/CSE574_23_day7.pdf)<br>  [Assignment 2 Guidelines](/lectures/CSE574_Guidelines_Assignment2.pdf)   |
 | Week 7 <br> 09/29/2023 | Imitation learning for decision-making | Project team formation and idea Due date: 25th Sept<br> Project Proposal Presentation : 29th Sept      | [Week 7 Lecture](/lectures/CSE574_23_week7.pdf) <br>[Project Guidelines](/lectures/CSE574__Project_Guidelines.pdf) <br>  [Project Report Template](/lectures/CSE574_project_report_template.zip)    |
 | Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           |       |
-| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Due Date: 15th Oct        |       |
+| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Part 1: Due on 13th Oct <br>   Assignment 2 Part 2: Due on 15th Oct    |       |
 | Week 10 <br> 10/20/2023 | Task and Motion planning               |           |       |
 | Week 11 <br> 10/27/2023 | Task and Motion planning               |   Project Progress Presentation : 27th Oct       |       |
 | Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
