@@ -129,7 +129,7 @@ Contact info: atricham@asu...
       <figcaption><b>Harsh Mankodiya</b><br>(Grader)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: mankodi@asu...<br>
+      E-mail: hmankodi@asu...<br>
       Office hours: Ad-hoc (post grading)
     </font>
   </div>
