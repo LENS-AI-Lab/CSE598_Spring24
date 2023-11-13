@@ -40,8 +40,8 @@ Contact info: atricham@asu...
 | Week 11 <br> 10/27/2023 | Task and Motion planning               |   Project Progress Presentation : 27th Oct       |       |
 | Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
 | <span style="color:red; text-decoration:line-through;">Week 13 <br> 11/10/2023</span> | <span style="color:red;">Veterans Day Observed <br> (Classes excused/University closed)</span>  |           |       |
-| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |  Assignment 3 released: 10th Nov        |       |
-| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |    Assignment 3 Due Date: 26th Nov          |       |
+| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |  Assignment 3 released: 12th Nov        |       |
+| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |    Assignment 3 Due Date: 27th Nov          |       |
 | Week 16 <br> 12/01/2023 | Project presentations                | Final Project Presentations : 1st Dec <br> Final Project Report : 3rd Dec         |       |
 
 
