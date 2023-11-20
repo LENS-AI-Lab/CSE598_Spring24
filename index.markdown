@@ -33,7 +33,7 @@ Contact info: atricham@asu...
 | Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept | [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)   <br>    [Week 4 Lecture](/lectures/CSE574_23_day4.pdf) <br>[Assignment 1 Part A solutions](/lectures/CSE574_23_assignment1_part1_solutions.pdf) |
 | Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           | [Week 5 Lecture](/lectures/CSE574_23_day5.pdf) <br>   Additional Reading : <br> [SayCan](https://say-can.github.io/assets/palm_saycan.pdf) |
 | Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     | [Week 6 Lecture](/lectures/CSE574_23_day7.pdf)<br>  [Assignment 2 Guidelines](/lectures/CSE574_Guidelines_Assignment2.pdf)   |
-| Week 7 <br> 09/29/2023 | Imitation learning for decision-making | Project team formation and idea Due date: 25th Sept<br> Project Proposal Presentation : 29th Sept      | [Week 7 Lecture](/lectures/CSE574_23_week7.pdf) <br>[Project Guidelines](/lectures/CSE574__Project_Guidelines.pdf) <br>  [Project Report Template](/lectures/CSE574_project_report_template.zip)    |
+| Week 7 <br> 09/29/2023 | Imitation learning for decision-making | Project team formation and idea Due date: 25th Sept<br> Project Proposal Presentation : 29th Sept      | [Week 7 Lecture](/lectures/CSE574_23_week7.pdf) <br>[Project Guidelines](/lectures/CSE574__Project_Guidelines_Updated.pdf) <br>  [Project Report Template](/lectures/CSE574_project_report_template.zip)    |
 | Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           | [Week 8 Lecture](/lectures/CSE574_23_week8.pdf)<br>  Additional Reading :<br>[InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)    |
 | Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Part 1: Due on 13th Oct <br>   Assignment 2 Part 2: Due on 15th Oct    |   [Week 9 Lecture](/lectures/CSE574_23_week9.pdf)  <br> [Student Presentations- RL algorithms](/lectures/RLalgorithms.pdf)  |
 | Week 10 <br> 10/20/2023 | Task and Motion planning               |           |   [Week 10 Lecture](/lectures/CSE574_23_week10.pdf)    |
@@ -42,7 +42,7 @@ Contact info: atricham@asu...
 | <span style="color:red; text-decoration:line-through;">Week 13 <br> 11/10/2023</span> | <span style="color:red;">Veterans Day Observed <br> (Classes excused/University closed)</span>  |           |       |
 | Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |  Assignment 3 released: 12th Nov        |       |
 | <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |    Assignment 3 Due Date: 27th Nov          |       |
-| Week 16 <br> 12/01/2023 | Project presentations                | Final Project Presentations : 1st Dec <br> Final Project Report : 3rd Dec         |       |
+| Week 16 <br> 12/01/2023 | Project presentations                | Final Project Presentations : 1st Dec <br> Final Project Report : 3rd Dec         |  [Project Guidelines](/lectures/CSE574__Project_Guidelines_Updated.pdf)     |
 
 
 
