@@ -7,8 +7,8 @@ type: website
 description: Fall2023 CSE574 course
 ---
 #### Lecture Details 
-<font size='4' face='Times New Roman'>Days: Friday<br>
-Duration: 1:30 PM - 4:15 PM (Aug 18 - Dec 01)<br>
+<font size='4' face='Times New Roman'>Days: Mondays, Wednesdays<br>
+Duration: 10:30 AM - 11:45 AM (Jan 08 - Apr 26)<br>
 Lecture Hall: <a href='http://www.asu.edu/map/interactive/?psCode=COOR' target='_blank'>Lattie Coor Hall 174 (Tempe)</a><br>
 Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Canvas</a>
   <br>
