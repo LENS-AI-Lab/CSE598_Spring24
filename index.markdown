@@ -18,14 +18,21 @@ Contact info: atricham@asu...
  </font>
   <br>
 #### Description
-<font size='4' face='Times New Roman'>This course offers a comprehensive exploration of deep learning's dynamic advancements in critical domains. Beyond mere dataset accuracy, participants delve into real-world deployment challenges in high-stakes scenarios, gaining a pragmatic understanding. Sociotechnical hurdles are addressed for effective integration, with examples from autonomous driving, robotics, and healthcare. Equipping learners with strategies, the course navigates complexities for deploying deep learning in mission-critical environments. </font>
+<font size='4' face='Times New Roman'>In this course, we will explore the pivotal role of deep learning across various application domains, delving into its rapid advancements. However, our focus extends beyond mere accuracy on isolated datasets, par-
+ticularly when deploying deep learning in real-world scenarios, especially those with high stakes. Taking
+a pragmatic perspective, we will examine the sociotechnical challenges that impede the seamless deploy-
+ment of deep learning techniques in critical applications. Our emphasis lies in identifying and addressing
+these challenges to facilitate the effective integration of deep learning solutions. Drawing examples from
+diverse fields like autonomous driving, robotics, and healthcare, we aim to equip participants with the
+knowledge and strategies needed to navigate the complexities of deploying deep learning in high-stakes
+environments. </font>
  <br>
 #### Prerequisites : 
 <font size='4' face='Times New Roman'>It is highly recommended that students complete <b>CSE 471: Introduction to AI </b> or <b>CSE 475: Foundations of Machine Learning </b> in order to be successful in this course. We assume the students to have an understanding of deep learning and experience with one of the deep learning libraries such as pytorch.</font>
  <br>
 #### Course Schedule: 
 
-| WEEK   | DATES |LECTURE                                  | IMPORTANT DATES | NOTES |
+| WEEK   | DATES |TOPIC                                  | IMPORTANT DATES | NOTES |
 |----------|------|------------------------------------------|-----------|-------|
 |Week 1| 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
 |Week 2| <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | |
