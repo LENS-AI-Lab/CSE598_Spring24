@@ -46,13 +46,7 @@ Contact info: atricham@asu...
 
 
 
-#### Textbook & Additional Reading : 
-<font size='4' face='Times New Roman'><a href='https://algorithmsbook.com/files/dm.pdf' target='_blank'>Algorithms for Decision Making </a><br>
-<a href='https://algorithmsbook.com/optimization/files/optimization.pdf' target='_blank'>Algorithms for Optimization</a> <br>
-<a href='https://aima.cs.berkeley.edu/' target='_blank'>Artificial Intelligence: A Modern Approach (4th US edition)</a> <br>
-<a href='https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf' target='_blank'> Reinforcement Learning: An Introduction (2nd edition)</a><br>
-</font>
-<br>
+
 
 
 #### Teaching Team : <br>
@@ -82,21 +76,20 @@ Contact info: atricham@asu...
     </figure>
     <font size='2' face='Times New Roman'>
       E-mail: ransalu@asu...<br>
-      Office hours: Fri, 11:00 AM - 12:00 PM<br>
-      Virtual: <a href='https://asu.zoom.us/j/86531265486' target='_blank'>Meeting Link</a><br>
+      Office hours: Mon, 2:00 PM - 3:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/86384420994' target='_blank'>Meeting Link</a><br>
     </font>
   </div>
 
   <div class="person">
     <figure class="img-container">
-      <img src="images/yancheng.jpg" alt="Yancheng Wang">
-      <figcaption><b>Yancheng Wang</b><br>(Teaching Assistant)</figcaption>
+      <img src="images/som.jpg" alt="Som Sagar">
+      <figcaption><b>Som Sagar</b><br>(Teaching Assistant)</figcaption>
     </figure>
     <font size='2' face='Times New Roman'>
-      E-mail: ywan1053@asu...<br>
-      Office hours: Wed, 2:00 PM - 3:00 PM<br>
-      Virtual: <a href='https://asu.zoom.us/j/7737185236' target='_blank'>Meeting Link</a><br>
-      Office: <a href='https://www.asu.edu/map/interactive/?psCode=BYENG' target='_blank'>BYENG 211</a><br>
+      E-mail: ssagar6@asu...<br>
+      Office hours: Fri, 11:00 AM - 12:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/2626337917' target='_blank'>Meeting Link</a><br>
     </font>
   </div>
 
@@ -107,21 +100,11 @@ Contact info: atricham@asu...
     </figure>
     <font size='2' face='Times New Roman'>
       E-mail: atricham@asu...<br>
-      Office hours: Mon, 11:00 AM - 12:00 PM<br>
-      Virtual: <a href='https://asu.zoom.us/j/83254800465' target='_blank'>Meeting Link</a><br>
+      Office hours: Tue, 11:00 AM - 12:00 PM<br>
+      Virtual: <a href='https://asu.zoom.us/j/83219364396' target='_blank'>Meeting Link</a><br>
     </font>
   </div>
 
-  <div class="person">
-    <figure class="img-container">
-      <img src="images/suresh.jpeg" alt="suresh">
-      <figcaption><b>Suresh Kondepudi</b><br>(Grader)</figcaption>
-    </figure>
-    <font size='2' face='Times New Roman'>
-      E-mail: nkondepu@asu...<br>
-      Office hours: Ad-hoc (post grading)
-    </font>
-  </div>
 
   <div class="person">
     <figure class="img-container">
