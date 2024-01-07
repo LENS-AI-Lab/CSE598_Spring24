@@ -18,10 +18,8 @@ Contact info: atricham@asu...
  </font>
   <br>
 #### Description
-<font size='4' face='Times New Roman'>In this course, we will explore the pivotal role of deep learning across various application domains, delving into its rapid advancements. However, our focus extends beyond mere accuracy on isolated datasets, par-
-ticularly when deploying deep learning in real-world scenarios, especially those with high stakes. Taking
-a pragmatic perspective, we will examine the sociotechnical challenges that impede the seamless deploy-
-ment of deep learning techniques in critical applications. Our emphasis lies in identifying and addressing
+<font size='4' face='Times New Roman'>In this course, we will explore the pivotal role of deep learning across various application domains, delving into its rapid advancements. However, our focus extends beyond mere accuracy on isolated datasets, particularly when deploying deep learning in real-world scenarios, especially those with high stakes. Taking
+a pragmatic perspective, we will examine the sociotechnical challenges that impede the seamless deployment of deep learning techniques in critical applications. Our emphasis lies in identifying and addressing
 these challenges to facilitate the effective integration of deep learning solutions. Drawing examples from
 diverse fields like autonomous driving, robotics, and healthcare, we aim to equip participants with the
 knowledge and strategies needed to navigate the complexities of deploying deep learning in high-stakes
