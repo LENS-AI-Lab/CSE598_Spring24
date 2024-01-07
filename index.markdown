@@ -27,22 +27,22 @@ Contact info: atricham@asu...
 
 | WEEK   | DATES |LECTURE                                  | IMPORTANT DATES | NOTES |
 |----------|------|------------------------------------------|-----------|-------|
-| Week 1 | 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
-| Week 2 | <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | |
-| Week 3 | 01/22/2024 <br>01/24/2024 | Epistemic uncertainty |         |      |
-| Week 4 | 01/29/2024 <br>01/31/2024 | Model calibration|  | |
-| Week 5 | 02/05/2024 <br> 02/07/2024 | Explainable AI techniques |           |  |
-| Week 6 | 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
-| Week 7 | 02/19/2024 <br>02/21/2024 | Out-of-domain/distribution detection |     | |
-| Week 8 | 02/26/2024 <br>02/28/2024 | Project discussions |           |   |
-| <span style="color:red; text-decoration:line-through;">Week 9</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
-| Week 10 | 03/11/2024 <br> 03/13/2024 | Out-of-domain/distribution adaptation and generalization  |           |    |
-| Week 11 | 03/18/2024 <br> 03/20/2024 | Adversarial attacks             |       |       |
-| Week 12 | 03/25/2024 <br> 03/27/2024 | Bias and fairness: testing  |           |       |
-| Week 13 | 04/01/2024 <br> 04/03/2024 | Bias and fairness: mitigation  |           |       |
-| Week 14 | 04/08/2024 <br> 04/10/2024 | Privacy |        |       |
-| Week 15 | 04/15/2024 <br> 04/17/2024 |Law and Ethics |  |       |
-| Week 16 | 04/22/2024 <br>  04/24/2024 | Project discussions and evaluation |   |      |
+|Week 1| 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
+|Week 2| <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | |
+|Week 3| 01/22/2024 <br>01/24/2024 | Epistemic uncertainty |         |      |
+|Week 4| 01/29/2024 <br>01/31/2024 | Model calibration|  | |
+|Week 5| 02/05/2024 <br> 02/07/2024 | Explainable AI techniques |           |  |
+|Week 6| 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
+|Week 7| 02/19/2024 <br>02/21/2024 | Out-of-domain/distribution detection |     | |
+|Week 8| 02/26/2024 <br>02/28/2024 | Project discussions |           |   |
+|<span style="color:red; text-decoration:line-through;">Week 9</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
+|Week 10| 03/11/2024 <br> 03/13/2024 | Out-of-domain/distribution adaptation and generalization  |           |    |
+|Week 11| 03/18/2024 <br> 03/20/2024 | Adversarial attacks             |       |       |
+|Week 12| 03/25/2024 <br> 03/27/2024 | Bias and fairness: testing  |           |       |
+|Week 13| 04/01/2024 <br> 04/03/2024 | Bias and fairness: mitigation  |           |       |
+|Week 14| 04/08/2024 <br> 04/10/2024 | Privacy |        |       |
+|Week 15| 04/15/2024 <br> 04/17/2024 |Law and Ethics |  |       |
+|Week 16| 04/22/2024 <br>  04/24/2024 | Project discussions and evaluation |   |      |
 
 
 
