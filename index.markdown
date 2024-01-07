@@ -27,15 +27,15 @@ Contact info: atricham@asu...
 
 | WEEK   | DATES |LECTURE                                  | IMPORTANT DATES | NOTES |
 |----------|------|------------------------------------------|-----------|-------|
-| Week 1 <br> 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
-| Week 2 <br> <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           ||
-| Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |         | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
-| Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept | [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)   <br>    [Week 4 Lecture](/lectures/CSE574_23_day4.pdf) <br>[Assignment 1 Part A solutions](/lectures/CSE574_23_assignment1_part1_solutions.pdf) |
-| Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           | [Week 5 Lecture](/lectures/CSE574_23_day5.pdf) <br>   Additional Reading : <br> [SayCan](https://say-can.github.io/assets/palm_saycan.pdf) |
-| Week 6 <br> 09/22/2023 | Imitation learning for decision-making |    Assignment 1 Due Date: 19th Sept<br> Assignment 2 released: 20th Sept     | [Week 6 Lecture](/lectures/CSE574_23_day7.pdf)<br>  [Assignment 2 Guidelines](/lectures/CSE574_Guidelines_Assignment2.pdf)   |
-| Week 7 <br> 09/29/2023 | Imitation learning for decision-making | Project team formation and idea Due date: 25th Sept<br> Project Proposal Presentation : 29th Sept      | [Week 7 Lecture](/lectures/CSE574_23_week7.pdf) <br>[Project Guidelines](/lectures/CSE574__Project_Guidelines_Updated.pdf) <br>  [Project Report Template](/lectures/CSE574_project_report_template.zip)    |
-| Week 8 <br> 10/06/2023 | Human-in-the-loop planning             |           | [Week 8 Lecture](/lectures/CSE574_23_week8.pdf)<br>  Additional Reading :<br>[InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)    |
-| Week 9 <br> 10/13/2023 | Human-in-the-loop planning             |   Assignment 2 Part 1: Due on 13th Oct <br>   Assignment 2 Part 2: Due on 15th Oct    |   [Week 9 Lecture](/lectures/CSE574_23_week9.pdf)  <br> [Student Presentations- RL algorithms](/lectures/RLalgorithms.pdf)  |
+| Week 1 | 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
+| Week 2 | <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | |
+| Week 3 | 01/22/2024 <br>01/24/2024 | Epistemic uncertainty |         |      |
+| Week 4 | 01/29/2024 <br>01/31/2024 | Model calibration|  | |
+| Week 5 | 02/05/2024 <br> 02/07/2024 | Explainable AI techniques |           |  |
+| Week 6 | 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
+| Week 7 | 02/19/2024 <br>02/21/2024 | Out-of-domain/distribution detection |     | |
+| Week 8 | 02/26/2024 <br>02/28/2024 | Project discussions |           |   |
+| <span style="color:red; text-decoration:line-through;">Week 13</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
 | Week 10 <br> 10/20/2023 | Task and Motion planning               |           |   [Week 10 Lecture](/lectures/CSE574_23_week10.pdf)    |
 | Week 11 <br> 10/27/2023 | Task and Motion planning               |   Project Progress Presentation : 27th Oct       |       |
 | Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
