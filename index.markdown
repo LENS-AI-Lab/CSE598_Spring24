@@ -35,14 +35,14 @@ Contact info: atricham@asu...
 | Week 6 | 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
 | Week 7 | 02/19/2024 <br>02/21/2024 | Out-of-domain/distribution detection |     | |
 | Week 8 | 02/26/2024 <br>02/28/2024 | Project discussions |           |   |
-| <span style="color:red; text-decoration:line-through;">Week 13</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
-| Week 10 <br> 10/20/2023 | Task and Motion planning               |           |   [Week 10 Lecture](/lectures/CSE574_23_week10.pdf)    |
-| Week 11 <br> 10/27/2023 | Task and Motion planning               |   Project Progress Presentation : 27th Oct       |       |
-| Week 12 <br> 11/03/2023 | Multiagent planning and decision-making under uncertainty |           |       |
-| <span style="color:red; text-decoration:line-through;">Week 13 <br> 11/10/2023</span> | <span style="color:red;">Veterans Day Observed <br> (Classes excused/University closed)</span>  |           |       |
-| Week 14 <br> 11/17/2023 | Classical planning and hierarchical planning/learning |  Assignment 3 released: 12th Nov        |       |
-| <span style="color:red; text-decoration:line-through;">Week 15 <br> 11/24/2023</span> | <span style="color:red;">Thanksgiving Holiday Observed <br> (Classes excused/University closed)</span> |    Assignment 3 Due Date: 27th Nov          |       |
-| Week 16 <br> 12/01/2023 | Project presentations                | Final Project Presentations : 1st Dec <br> Final Project Report : 3rd Dec         |  [Project Guidelines](/lectures/CSE574__Project_Guidelines_Updated.pdf)     |
+| <span style="color:red; text-decoration:line-through;">Week 9</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
+| Week 10 | 03/11/2024 <br> 03/13/2024 | Out-of-domain/distribution adaptation and generalization  |           |    |
+| Week 11 | 03/18/2024 <br> 03/20/2024 | Adversarial attacks             |       |       |
+| Week 12 | 03/25/2024 <br> 03/27/2024 | Bias and fairness: testing  |           |       |
+| Week 13 | 04/01/2024 <br> 04/03/2024 | Bias and fairness: mitigation  |           |       |
+| Week 14 | 04/08/2024 <br> 04/10/2024 | Privacy |        |       |
+| Week 15 | 04/15/2024 <br> 04/17/2024 |Law and Ethics |  |       |
+| Week 16 | 04/22/2024 <br>  04/24/2024 | Project discussions and evaluation |   |      |
 
 
 
