@@ -35,7 +35,7 @@ Contact info: atricham@asu...
 |Week 6| 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
 |Week 7| 02/19/2024 <br>02/21/2024 | Out-of-domain/distribution detection |     | |
 |Week 8| 02/26/2024 <br>02/28/2024 | Project discussions |           |   |
-|<span style="color:red; text-decoration:line-through;">Week 9</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |Spring break (No class) | | |
+|<span style="color:red; text-decoration:line-through;">Week 9</span>| <span style="color:red; text-decoration:line-through;">03/04/2024<br> 03/06/2024</span> |<span style="color:red;">Spring break (No class)</span> | | |
 |Week 10| 03/11/2024 <br> 03/13/2024 | Out-of-domain/distribution adaptation and generalization  |           |    |
 |Week 11| 03/18/2024 <br> 03/20/2024 | Adversarial attacks             |       |       |
 |Week 12| 03/25/2024 <br> 03/27/2024 | Bias and fairness: testing  |           |       |
