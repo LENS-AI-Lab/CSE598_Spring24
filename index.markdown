@@ -32,7 +32,7 @@ environments. </font>
  <br>
 #### Course Schedule: 
 
-| WEEK   | DATES |TOPIC                                  | IMPORTANT DATES | NOTES |
+| WEEK   | DATES |TOPICS                                  | IMPORTANT DATES | NOTES |
 |----------|------|------------------------------------------|-----------|-------|
 |Week 1| 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
 |Week 2| <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | |
