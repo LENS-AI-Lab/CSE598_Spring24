@@ -4,31 +4,31 @@
 
 layout: page
 type: website
-description: Fall2023 CSE574 course
+description: Spring2024 CSE598 course
 ---
 #### Lecture Details 
 <font size='4' face='Times New Roman'>Days: Mondays, Wednesdays<br>
 Duration: 10:30 AM - 11:45 AM (Jan 08 - Apr 26)<br>
-Lecture Hall: <a href='http://www.asu.edu/map/interactive/?psCode=COOR' target='_blank'>Lattie Coor Hall 174 (Tempe)</a><br>
-Submissions: <a href='https://canvas.asu.edu/courses/155869' target='_blank'>Canvas</a>
+Lecture Hall: <a href='https://www.asu.edu/map/interactive/?psCode=SHESC' target='_blank'>SHESC 340 (Tempe)</a><br>
+Submissions: <a href='https://canvas.asu.edu/courses/177191' target='_blank'>Canvas</a>
   <br>
-Syllabus: <a href='https://canvas.asu.edu/courses/155869/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
+Syllabus: <a href='https://canvas.asu.edu/courses/177191/files/folder/Syllabus' target='_blank'>Course Syllabus</a> <br>
 Live Lecture: Zoom Link provided in Canvas <br>
 Contact info: atricham@asu...
  </font>
   <br>
 #### Description
-<font size='4' face='Times New Roman'>This course offers a comprehensive exploration of planning and learning methods in Artificial Intelligence (AI). Students will gain a deep understanding of how AI systems can make informed decisions, strategize effectively, and adapt in dynamic environments. The course covers both theoretical foundations and practical applications of planning and learning algorithms, empowering students with the skills to design intelligent systems capable of autonomous decision-making. Topics include reasoning about time and action, plan synthesis and execution, sequential decision support, and reinforcement learning. </font>
+<font size='4' face='Times New Roman'>This course offers a comprehensive exploration of deep learning's dynamic advancements in critical domains. Beyond mere dataset accuracy, participants delve into real-world deployment challenges in high-stakes scenarios, gaining a pragmatic understanding. Sociotechnical hurdles are addressed for effective integration, with examples from autonomous driving, robotics, and healthcare. Equipping learners with strategies, the course navigates complexities for deploying deep learning in mission-critical environments. </font>
  <br>
 #### Prerequisites : 
-<font size='4' face='Times New Roman'>It is highly recommended that students complete <b>CSE 471: Introduction to AI </b> or <b>CSE 475: Foundations of Machine Learning </b> in order to be successful in this course. </font>
+<font size='4' face='Times New Roman'>It is highly recommended that students complete <b>CSE 471: Introduction to AI </b> or <b>CSE 475: Foundations of Machine Learning </b> in order to be successful in this course. We assume the students to have an understanding of deep learning and experience with one of the deep learning libraries such as pytorch.</font>
  <br>
 #### Course Schedule: 
 
 | WEEK   | LECTURE                                  | IMPORTANT DATES | NOTES |
 |----------------|------------------------------------------|-----------|-------|
-| Week 1 <br> 08/18/2023 | Intro to decision-making               |           |   [Week 1 Lecture](/lectures/CSE574_23_week1_intro.pdf)|
-| Week 2 <br> 08/25/2023 | Myopic planning <br> Pytorch Tutorial |           |[Week 2 Lecture](/lectures/CSE574_23_day2.pdf)<br>[Pytorch Tutorial](/lectures/Tutorial_Materials.zip)<br>Additional Reading :<br>[Algorithms for Optimization:Section 15, Section 16](https://algorithmsbook.com/optimization/files/optimization.pdf)|
+| Week 1 <br> 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
+| Week 2 <br> <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           ||
 | Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |         | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
 | Week 4 <br> 09/08/2023 | Non-myopic planning and reinforcement learning |    Assignment 1 released: 6th Sept | [Assignment 1 code files](/lectures/CSE574_Assignment1_executables.zip)   <br>    [Week 4 Lecture](/lectures/CSE574_23_day4.pdf) <br>[Assignment 1 Part A solutions](/lectures/CSE574_23_assignment1_part1_solutions.pdf) |
 | Week 5 <br> 09/15/2023 | Non-myopic planning and reinforcement learning |           | [Week 5 Lecture](/lectures/CSE574_23_day5.pdf) <br>   Additional Reading : <br> [SayCan](https://say-can.github.io/assets/palm_saycan.pdf) |
