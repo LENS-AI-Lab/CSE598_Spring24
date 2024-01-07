@@ -25,8 +25,8 @@ Contact info: atricham@asu...
  <br>
 #### Course Schedule: 
 
-| WEEK   | LECTURE                                  | IMPORTANT DATES | NOTES |
-|----------------|------------------------------------------|-----------|-------|
+| WEEK   | DATES |LECTURE                                  | IMPORTANT DATES | NOTES |
+|----------|------|------------------------------------------|-----------|-------|
 | Week 1 <br> 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |   |
 | Week 2 <br> <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           ||
 | Week 3 <br> 09/01/2023 | Myopic planning <br> Robot Planning tutorial |         | [Week 3 Lecture](/lectures/CSE574_23_day3.pdf)<br>[ROS Tutorial](/lectures/Intro_to_ROS.pdf)      |
