@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title                    : "CSE598: Operationalizing Deep Learning: A Sociotechnical Perspective(Spring 2024)"
+title                    : "CSE598: Operationalizing Deep Learning: A Sociotechnical Perspective (Spring 2024)"
 name                     : "Akshara Trichambaram"
 description              : "Course curriculum details for CSE598"
 #yy this means to ignore newlines until "baseurl:"
