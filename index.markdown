@@ -34,7 +34,7 @@ environments. </font>
 |----------|------|------------------------------------------|-----------|-------|
 |Week 1| 01/08/2024 <br> 01/10/2024 | Deep learning applications, models, and metrics               |           |  [Week 1 Lecture](/lectures/CSE598_week1.pdf) |
 |Week 2| <span style="color:red; text-decoration:line-through;">01/15/2024</span><br>01/17/2024 | <span style="color:red;">Martin Luther King Jr. Holiday Observed (No class)</span> <br> Debugging and deployment |           | [PyTorch Tutorials](https://pytorch.org/tutorials/) |
-|Week 3| 01/22/2024 <br>01/24/2024 | Epistemic uncertainty |         |  [RAS-Tutorial](/lectures/RAS_combinedTutorial.ipynb)    |
+|Week 3| 01/22/2024 <br>01/24/2024 | Epistemic uncertainty |         |  [RAS-Tutorial](/lectures/RAS_combinedTutorial.ipynb) <br>  [Project Guidelines](/lectures/CSE598_projectGuidelines.pdf)  |
 |Week 4| 01/29/2024 <br>01/31/2024 | Model calibration|  | |
 |Week 5| 02/05/2024 <br> 02/07/2024 | Explainable AI techniques |           |  |
 |Week 6| 02/12/2024 <br> 02/14/2024 |Considerations in Explainable AI  |    |   |
